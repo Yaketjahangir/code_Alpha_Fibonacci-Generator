@@ -1,1 +1,1 @@
-# code_Alpha_Fibonacci-Generator
+A Fibonacci generator is a program or function that generates the Fibonacci sequence. The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, usually starting with 0 and 1. So, the sequence goes like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, and so on.# code_Alpha_Fibonacci-Generator
